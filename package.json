@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mocha": "10.4.0",
     "chromedriver": "^125.0.1",
     "geckodriver": "^4.4.0",
-    "selenium-webdriver": "^4.21.0"
+    "selenium-webdriver": "^4.21.0"    
   }
 }
